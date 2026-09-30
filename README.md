@@ -117,11 +117,13 @@ Toàn bộ các file `.exe` đã được biên dịch sẵn bằng trình biên
 
 
 
+# BÀI TẬP LẬP TRÌNH
+
 ## Bài 01
 
 ### Kết quả chạy chương trình
 
-<img src="Ảnh%20kết%20quả/Bài%201.png" width="700">
+<img src="./anh_ket_qua/Bai_1.png" width="700">
 
 ---
 
@@ -129,7 +131,7 @@ Toàn bộ các file `.exe` đã được biên dịch sẵn bằng trình biên
 
 ### Kết quả chạy chương trình
 
-<img src="Ảnh%20kết%20quả/Bài%202.png" width="700">
+<img src="./anh_ket_qua/Bai_2.png" width="700">
 
 ---
 
@@ -137,7 +139,7 @@ Toàn bộ các file `.exe` đã được biên dịch sẵn bằng trình biên
 
 ### Kết quả chạy chương trình
 
-<img src="Ảnh%20kết%20quả/Bài%203.png" width="700">
+<img src="./anh_ket_qua/Bai_3.png" width="700">
 
 ---
 
@@ -145,7 +147,7 @@ Toàn bộ các file `.exe` đã được biên dịch sẵn bằng trình biên
 
 ### Kết quả chạy chương trình
 
-<img src="Ảnh%20kết%20quả/Bài%204.png" width="700">
+<img src="./anh_ket_qua/Bai_4.png" width="700">
 
 
 
