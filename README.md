@@ -1,4 +1,4 @@
-# HƯỚNG DẪN BÀI TẬP LẬP TRÌNH ĐA LUỒNG & BẤT ĐỒNG BỘ
+ BÀI TẬP LẬP TRÌNH ĐA LUỒNG & BẤT ĐỒNG BỘ
 ĐÀM ĐỨC HUY _ 23810310051_ CNPM1
 
 ## 📁 CẤU TRÚC THƯ MỤC BÀI TẬP
