@@ -117,3 +117,35 @@ Toàn bộ các file `.exe` đã được biên dịch sẵn bằng trình biên
 
 
 
+## Bài 01
+
+### Kết quả chạy chương trình
+
+<img src="Ảnh%20kết%20quả/Bài%201.png" width="700">
+
+---
+
+## Bài 02
+
+### Kết quả chạy chương trình
+
+<img src="Ảnh%20kết%20quả/Bài%202.png" width="700">
+
+---
+
+## Bài 03
+
+### Kết quả chạy chương trình
+
+<img src="Ảnh%20kết%20quả/Bài%203.png" width="700">
+
+---
+
+## Bài 04
+
+### Kết quả chạy chương trình
+
+<img src="Ảnh%20kết%20quả/Bài%204.png" width="700">
+
+
+
